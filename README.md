@@ -1,7 +1,7 @@
 ## github博客试水
 
   请不要惊讶，该页面根据默认的博客页面简单的修改后显示的，所以结构上会有很多相似，这是[编辑页面](https://github.com/n256bfx/n256bfx.github.io/edit/master/README.md)。
-  当提交到这个仓库的时候，GitHub页面就会打开https://jekyllrb.com/ 来重建在md文件里的内容。我现在正在我的尝试第一次提交！
+  当提交到这个仓库的时候，GitHub页面就会打开https://jekyllrb.com/ 来重建在md文件里的内容。我现在正在我的尝试第一次提交！再次！
 
 ### Markdown
 
