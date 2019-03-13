@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## github博客试水
 
-You can use the [editor on GitHub](https://github.com/n256bfx/n256bfx.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  请不要惊讶，该页面根据默认的博客页面简单的修改后显示的，所以结构上会有很多相似，这是[编辑页面](https://github.com/n256bfx/n256bfx.github.io/edit/master/README.md)。
+  当提交到这个仓库的时候，GitHub页面就会打开https://jekyllrb.com/ 来重建在md文件里的内容。我现在正在我的尝试第一次提交！
 
 ### Markdown
 
